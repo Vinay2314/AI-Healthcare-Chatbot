@@ -62,22 +62,6 @@ streamlit run app.py
 
 ---
 
-## 🌍 Live Demo
-🔗 **[Try the Live App Here](https://your-streamlit-app-link.streamlit.app/)**  
-*(Replace with your actual Streamlit deployment link.)*
-
----
-
-## 🛠 Deployment on Streamlit Cloud
-To deploy the chatbot on **Streamlit Cloud**:
-1. Push the code to **GitHub**.
-2. Go to [Streamlit Cloud](https://share.streamlit.io/).
-3. Click "New App", select your GitHub repo, and deploy!
-4. **Set Environment Variables** on Streamlit:
-   - In the Streamlit Cloud settings, add `API_KEY` under **Secrets Management**.
-
----
-
 ## 📷 Screenshots
 *(Add a screenshot of your chatbot interface here.)*
 
