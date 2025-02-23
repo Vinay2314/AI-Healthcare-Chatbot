@@ -1,0 +1,4 @@
+websocket-client
+pyasn1
+pyopenssl
+ndg-httpsclient
