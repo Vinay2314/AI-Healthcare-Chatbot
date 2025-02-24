@@ -64,6 +64,7 @@ streamlit run app.py
 
 ## 📷 Screenshots
 https://github.com/Vinay2314/AI-Healthcare-Chatbot/blob/main/Screenshot%20(16).png?raw=true
+https://github.com/Vinay2314/AI-Healthcare-Chatbot/blob/main/Screenshot%20(15).png
 
 
 ---
